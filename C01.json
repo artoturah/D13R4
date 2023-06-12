@@ -1,12 +1,12 @@
 {
 	"Ads": {
-		"INTERVAL": 2,
+		"INTERVAL": 5,
 		"SHOW_BANNER_ONLIST": true,
 		"KEY": "30tVtffIZzVMj10xxWjGHA==",
 		"PRIVACY_POLICY": "https://telegra.ph/Privacy-Policy-06-01-66"
 	},
 	"Promote": {
-		"SHOW_PROMOTE_DIALOG": false,
+		"SHOW_PROMOTE_DIALOG": true,
 		"PROMOTE_GIF": "https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif",
 		"PROMOTE_APP_ICON": "https://play-lh.googleusercontent.com/AKSOJkOH2IqMT-zvqcknCyaETyMKXi3e4kIGGdE3Wl4jNAI82j9IiShfyTdslmbLzg=w240-h480-rw",
 		"PROMOTE_APP_TITLE": "App Movie Viral",
