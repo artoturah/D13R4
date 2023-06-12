@@ -40,18 +40,32 @@
 		}
 	],
 	"Wallpaper": [{
-		"CONTENT_THUMB": "https://asset20.ckassets.com/thegoodlookbook/wp-content/uploads/sites/2/2018/11/feaatured-image.jpeg"
+		"CONTENT_THUMB": "https://asset20.ckassets.com/thegoodlookbook/wp-content/uploads/sites/2/2018/11/feaatured-image.jpeg",
+		"CONTENT_TITLE": "Title 1 10 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://images.squarespace-cdn.com/content/v1/5f21b3c0862b9f38f883a002/1614972119534-BM256EXB2OLMAJ1X1YRJ/Four+men+wearing+shorts.jpg"
+		"CONTENT_THUMB": "https://images.squarespace-cdn.com/content/v1/5f21b3c0862b9f38f883a002/1614972119534-BM256EXB2OLMAJ1X1YRJ/Four+men+wearing+shorts.jpg",
+		"CONTENT_TITLE": "Title 2 10 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://telegra.ph/file/c62ac17fc6ab2ea3f0e0f.png"
+		"CONTENT_THUMB": "https://telegra.ph/file/c62ac17fc6ab2ea3f0e0f.png",
+		"CONTENT_TITLE": "Title 3 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://i.pinimg.com/564x/86/f9/f6/86f9f6b67604aa166ff8aba937c8749d.jpg"
+		"CONTENT_THUMB": "https://i.pinimg.com/564x/86/f9/f6/86f9f6b67604aa166ff8aba937c8749d.jpg",
+		"CONTENT_TITLE": "Title 4 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://cdn.idntimes.com/content-images/post/20230121/weddings-b24c3f608e177beea99ae446ddcb6e25_600x400.jpg"
+		"CONTENT_THUMB": "https://cdn.idntimes.com/content-images/post/20230121/weddings-b24c3f608e177beea99ae446ddcb6e25_600x400.jpg",
+		"CONTENT_TITLE": "Title 5 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://telegra.ph/file/886bc19a368addbb99130.png"
+		"CONTENT_THUMB": "https://telegra.ph/file/886bc19a368addbb99130.png",
+		"CONTENT_TITLE": "Title 6 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}, {
-		"CONTENT_THUMB": "https://telegra.ph/file/3db00047b1fe751e606cc.png"
+		"CONTENT_THUMB": "https://telegra.ph/file/3db00047b1fe751e606cc.png",
+		"CONTENT_TITLE": "Title 7 Amazing Fruits for Glowing Skin",
+		"CONTENT_URL": "https://telegra.ph/10-AMAZING-FRUITS-FOR-GLOWING-SKIN-06-01"
 	}]
 }
